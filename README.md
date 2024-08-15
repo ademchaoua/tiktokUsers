@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/69f5a13d-dce7-43c1-946b-f002a6125d6a)
+
+
 # TikTok Username Claimer Bot
 - This Telegram bot allows users to claim TikTok usernames by interacting with TikTok's API. Built using PHP, the bot provides a streamlined interface for managing TikTok usernames, making it easy to claim desired usernames.
 
